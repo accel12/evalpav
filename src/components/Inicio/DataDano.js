@@ -56,7 +56,7 @@ const DataDano = ({listadoDano}) => {
           </tbody>
           </table>
           <div style={{backgroundColor:'white', marginBottom:'10px', marginTop:'10px'}}>
-              <DataValorReducido rows={rows} />
+              
             </div>
       </div>
   )
