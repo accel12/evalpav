@@ -3,7 +3,6 @@ import { ordenarDano } from '../../functions/evalFunctions'
 import useGlobal from '../../hooks/useGlobal'
 import usePci from '../../hooks/usePci'
 import DataValorReducido from './DataValorReducido'
-
 const DataDano = ({listadoDano}) => {
   const pci=usePci()
   const global=useGlobal()

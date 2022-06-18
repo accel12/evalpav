@@ -140,7 +140,7 @@ const ordenarDano=(listado,setRows,useGlobal)=>{
   i=0
   
 }
-module.exports={
+export{
     suma,
     resta,
     obtenerDataBruta,
